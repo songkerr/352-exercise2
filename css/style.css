@@ -32,9 +32,8 @@ h1 {
     margin: 0 auto;
     display: flex;
     flex-wrap: wrap;
-    justify-content: space-evenly;
+    justify-content: center;
     border-bottom: 1px solid black;
-    padding: 0.4rem;
 }
 
 .title {
@@ -48,6 +47,7 @@ h1 {
 }
 
 .details {
+    width: 20vw;
     margin: auto;
 }
 
